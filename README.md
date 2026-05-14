@@ -1,7 +1,5 @@
-# 3PBT-simulation
-3PBT MATLAB analysis of Laminated Composite Materials through Classical Lamination Theory (CLT) and First Shear-Order Deformation Theory (FSDT).
-
 # Three-Point Bending Simulator for Composite Laminates
+3PBT MATLAB analysis of Laminated Composite Materials through Classical Lamination Theory (CLT) and First Shear-Order Deformation Theory (FSDT).
 
 **Bachelor's Thesis · ETSEIB, Universitat Politècnica de Catalunya (UPC) · July 2026**  
 Author: Adrián Casaudoumecq Tusquets · Supervisor: Oriol Bové Tous
