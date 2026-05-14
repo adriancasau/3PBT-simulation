@@ -47,6 +47,7 @@ laminate = [  0,  M2;
 ```matlab
 length = 180;   % span (mm)
 width = 40;    % width (mm)
+
 % Set the forces and moments to analyze a laminate under these loads
 % For example, the following loads analyze the laminate under a uniaxial test
 Nx = 1; % N/mm (force/width)
