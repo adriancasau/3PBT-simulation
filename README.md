@@ -78,7 +78,7 @@ No additional MATLAB toolboxes are required.
 ## Contact
 
 **Adrián Casaudoumecq Tusquets**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+📧 adriancasaudoumecq@gmail.com  
+🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/adri%C3%A1n-casaudoumecq-tusquets-1575612a0/))
 
 *Developed in the context of the Bcn eMotorsport Formula Student team. Built for engineers who want to understand what's inside the black box.*
